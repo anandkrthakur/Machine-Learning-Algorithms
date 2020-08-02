@@ -5,4 +5,7 @@ Machine Learning Algorithms that every Data Scientist should know !!!
 
 List of algorithms are listed below:
 
-...Coming Soon...
+- Linear Regression
+- Logistic Regression
+
+...More Coming Soon...
