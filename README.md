@@ -7,5 +7,6 @@ List of algorithms are listed below:
 
 - Linear Regression
 - Logistic Regression
+- K Nearest Neighbors
 
 ...More Coming Soon...
