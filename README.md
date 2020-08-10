@@ -7,10 +7,11 @@ List of algorithms are listed below:
 
 - Linear Regression
 - Logistic Regression
-- K Nearest Neighbors
+- K Nearest Neighbors (KNN)
 - Decision Trees
 - Random Forests
-- Support Vector Machines
+- Support Vector Machines (SVM)
 - K Means Clustering
+- Principal Component Analysis (PCA)
 
 ...More Coming Soon...
